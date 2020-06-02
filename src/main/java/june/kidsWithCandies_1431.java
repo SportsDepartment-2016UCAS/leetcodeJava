@@ -18,7 +18,7 @@ public class kidsWithCandies_1431 {
                 max = candy;
             }
         }
-        
+
         // 2.判断每个数组与最大值的差值，若差值 <extraCandies,则为false
         List<Boolean> result = new ArrayList<>();
         for (int candy : candies) {
