@@ -1,9 +1,9 @@
-package top200;
+package tophundred;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoSum {
+public class TwoSum_1 {
 
     public static int[] twoSum(int[] nums, int target) {
 
